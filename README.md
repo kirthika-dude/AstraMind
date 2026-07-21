@@ -1,4 +1,26 @@
-# astramind
+# 🚀 AstraMind
+
+An AI-powered virtual assistant built with Flutter.
+
+## ✨ Features
+- 🌍 Supports 100+ languages
+- 🤖 Intelligent AI conversations
+- 🎤 Voice input and voice responses
+- 🛍️ Smart digital shopping assistant
+- 📱 Modern Flutter UI
+- 🔒 Secure user authentication
+
+## 🛠️ Tech Stack
+- Flutter
+- Dart
+- Firebase
+- AI APIs
+
+## 📌 Status
+🚧 Currently under active development.
+
+## 👩‍💻 Developer
+**Kirthika R.**# astramind
 
 A new Flutter project.
 
